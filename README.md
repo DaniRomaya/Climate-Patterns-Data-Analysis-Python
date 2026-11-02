@@ -1,4 +1,4 @@
-# Climate Change Patterns: Analyzing Temperature Trends in Michigan and the United States
+# Climate Change Patterns: Analyzing Temperature Trends in Michigan and the United States - In Progress
 
 ## Project Overview
 
